@@ -1,0 +1,6 @@
+@FetchClicks_HostAddress = http://localhost:5075
+
+GET {{FetchClicks_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
